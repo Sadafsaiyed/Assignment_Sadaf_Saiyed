@@ -7,4 +7,5 @@ It is a responsive webpage which is accessible to different devices such as desk
 * CSS
 ### Output of the code
 <img src="Output-1.png" />
+<img src="Output-2.png" />
   
