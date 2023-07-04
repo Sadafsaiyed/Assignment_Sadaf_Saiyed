@@ -5,4 +5,6 @@ It is a responsive webpage which is accessible to different devices such as desk
 ## Technology used
 * HTML
 * CSS
+### Output of the code
+<img src="./.jpg" />
   
