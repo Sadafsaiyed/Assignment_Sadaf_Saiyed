@@ -8,6 +8,6 @@ It is a responsive webpage which is accessible to different devices such as desk
 ### Output of the code
 #### Output 1
 <img src="Output-1.png" />
-
+#### Output 2
 <img src="Output-2.png" />
   
