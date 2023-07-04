@@ -6,5 +6,5 @@ It is a responsive webpage which is accessible to different devices such as desk
 * HTML
 * CSS
 ### Output of the code
-<img src="./.jpg" />
+<img src="Output-1.png" />
   
